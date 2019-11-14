@@ -1,0 +1,6 @@
+Creacion servidor
+  * Conneción con la DB(mongoose).
+  * Agregación de las rutas:
+    - business --> manipulación de las empresas que quieran unirse
+    - freelarcer --> manipulación de los freelancers que quieran unirse
+    - work --> espacio para la agregación de los trabajos por parte de la empresa
